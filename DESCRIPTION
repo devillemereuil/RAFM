@@ -1,0 +1,11 @@
+Package: RAFM
+Type: Package
+Title: Admixture F-model
+Version: 1.2
+Date: 2016-12-02
+Author: Markku Karhunen, Pierre de Villemereuil for the AFLP features
+Maintainer: Markku Karhunen <markku.karhunen@helsinki.fi>
+Description: Fits AFM by Metropolis-Hastings, calculates theta and FST out of AFM parameters. This fork accepts AFLP as a type of input.
+License: GPL-2
+ByteCompile: true
+LazyLoad: yes
